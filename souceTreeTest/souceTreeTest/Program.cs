@@ -12,6 +12,9 @@ namespace souceTreeTest
         {
 
             Console.WriteLine("テストおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお");
+
+
+            Console.WriteLine("ブランチきったよ");
         }
     }
 }
