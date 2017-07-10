@@ -11,7 +11,7 @@ namespace souceTreeTest
         static void Main(string[] args)
         {
 
-            Console.WriteLine("テストおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお");
+            Console.WriteLine("テストお");
         }
     }
 }
