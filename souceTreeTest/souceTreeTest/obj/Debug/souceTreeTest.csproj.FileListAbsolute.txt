@@ -1,0 +1,6 @@
+c:\users\pc-14\documents\visual studio 2015\Projects\souceTreeTest\souceTreeTest\bin\Debug\souceTreeTest.exe.config
+c:\users\pc-14\documents\visual studio 2015\Projects\souceTreeTest\souceTreeTest\bin\Debug\souceTreeTest.exe
+c:\users\pc-14\documents\visual studio 2015\Projects\souceTreeTest\souceTreeTest\bin\Debug\souceTreeTest.pdb
+c:\users\pc-14\documents\visual studio 2015\Projects\souceTreeTest\souceTreeTest\obj\Debug\souceTreeTest.csprojResolveAssemblyReference.cache
+c:\users\pc-14\documents\visual studio 2015\Projects\souceTreeTest\souceTreeTest\obj\Debug\souceTreeTest.exe
+c:\users\pc-14\documents\visual studio 2015\Projects\souceTreeTest\souceTreeTest\obj\Debug\souceTreeTest.pdb
