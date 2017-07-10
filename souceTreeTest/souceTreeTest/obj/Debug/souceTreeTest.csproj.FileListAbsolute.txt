@@ -4,3 +4,6 @@ c:\users\pc-14\documents\visual studio 2015\Projects\souceTreeTest\souceTreeTest
 c:\users\pc-14\documents\visual studio 2015\Projects\souceTreeTest\souceTreeTest\obj\Debug\souceTreeTest.csprojResolveAssemblyReference.cache
 c:\users\pc-14\documents\visual studio 2015\Projects\souceTreeTest\souceTreeTest\obj\Debug\souceTreeTest.exe
 c:\users\pc-14\documents\visual studio 2015\Projects\souceTreeTest\souceTreeTest\obj\Debug\souceTreeTest.pdb
+C:\Users\pc-14\Documents\gitTest\souceTreeTest\souceTreeTest\obj\Debug\souceTreeTest.csprojResolveAssemblyReference.cache
+C:\Users\pc-14\Documents\gitTest\souceTreeTest\souceTreeTest\obj\Debug\souceTreeTest.exe
+C:\Users\pc-14\Documents\gitTest\souceTreeTest\souceTreeTest\obj\Debug\souceTreeTest.pdb
